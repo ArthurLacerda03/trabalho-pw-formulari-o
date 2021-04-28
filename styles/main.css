@@ -1,0 +1,23 @@
+form{
+    background-color: rgb(102, 182, 247);
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+}
+
+.elemento-sozinho {
+    display: block;
+    margin-bottom: 14px;
+    width: 97%;
+}
+
+button {
+    background-color: rgb(24, 85, 131); 
+    border: 2px solid rgb(25, 119, 190);
+    border-radius: 4px;
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    color: #ffffff;
+}
